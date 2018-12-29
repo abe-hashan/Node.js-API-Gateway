@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.3",
+    "http-proxy": "^1.17.0",
+    "jsonwebtoken": "^8.2.1",
+    "cors": "^2.8.4",
+    "moment": "^2.22.1",
+    "winston": "^2.4.2",
+    "winston-daily-rotate-file": "^3.1.4"
+  }
+}
